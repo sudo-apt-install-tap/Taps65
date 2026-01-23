@@ -29,7 +29,8 @@ If you’re following along and something doesn’t make sense, ai03’s guide i
 <br> - PCB Front <br>
 <img width="1083" height="633" alt="pcb back" src="https://github.com/user-attachments/assets/1a4ad5da-189b-4254-844a-7b76d74fe77b" />
 <br> - PCB Back <br>
-
+<img src="https://github.com/sudo-apt-install-tap/Taps65/blob/main/images/pcb%20front.png" />
+<br> - PCB Assembled <br>
 ---
 
 ## 🚧 Planned Work
@@ -56,5 +57,6 @@ If you want help building your own keyboard or have questions about this project
 
 This is a learning project. Things may break, change, or be redesigned multiple times.  
 That’s part of the process.
+
 
 
