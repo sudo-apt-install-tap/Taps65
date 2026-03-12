@@ -1,5 +1,8 @@
 # Taps65 ⌨️
 
+<div align="center">  ⚠️ <b> This project is deprecated. </b>  
+Please check out <b> Tap65 V2 </b> for the current handwired version. </div> <br>
+
 A custom mechanical keyboard project designed to replace my current daily driver.  
 Not a showpiece. Not a concept. Something I can actually use every day.
 
@@ -58,6 +61,7 @@ If you want help building your own keyboard or have questions about this project
 
 This is a learning project. Things may break, change, or be redesigned multiple times.  
 That’s part of the process.
+
 
 
 
